@@ -1,2 +1,9 @@
 # Bchat
-bchat is a plugin similar to nchat from Minecraft, with global and local chat.
+bchat is a plugin similar to [nchat(https://docs.nickuc.com/pt/nchat/about/)] from Minecraft, with global and local chat
+this plugin is made to a survival servers and other purposes if you want.
+
+Commands:
+/d / global
+chat local is a normal chat just type
+
+
